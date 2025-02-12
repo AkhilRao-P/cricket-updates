@@ -1,1 +1,1 @@
-#### This repo have spring shell cli project, by executing required command displays cricket match series details.
+#### This repo have spring shell cli project, by executing required commands display's cricket teams series details.
